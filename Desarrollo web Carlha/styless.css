@@ -1,0 +1,21 @@
+h1 {
+    display: inline;
+   color: darkblue; 
+   font-size: 30px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 500;
+   font-style: italic;
+}
+p{
+    display: inline;
+}
+
+#verde {
+    color: rgb(255, 142, 127);
+}
+.rosa {
+    color: blueviolet;
+}
+.morado{
+    color: blueviolet;
+}
