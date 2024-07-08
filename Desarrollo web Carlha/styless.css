@@ -22,3 +22,9 @@ p{
 h1 {
    margin: 10px 20px;
 }
+
+ul{
+display: flex;
+justify-content: center;
+align-items: center;
+}
